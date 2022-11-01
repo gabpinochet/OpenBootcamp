@@ -1,0 +1,12 @@
+.galeria{
+    display: flex;
+    width: 100vw;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.elemento-galeria{
+    width: 300px;
+    display: flex;
+    object-fit: contain;
+}

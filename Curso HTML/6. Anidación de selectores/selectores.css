@@ -1,0 +1,17 @@
+.contenedor{
+    padding: 50px;
+}
+
+.contenedor #boton::after{
+    content: "Pasa por encima"
+}
+
+.contenedor #boton:hover{
+    background: green;
+    color: white;
+    cursor: pointer;
+}
+
+.contenedor #boton:hover::after{
+    content: "Hecho!";
+}
