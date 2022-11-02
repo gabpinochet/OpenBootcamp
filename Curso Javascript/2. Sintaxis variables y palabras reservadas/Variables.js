@@ -1,3 +1,9 @@
+var nombre = "Gabriel";
+
+var edad = 31;
+
+var desarrollador = true;
+
 const fecha = new Date(1991, 6, 3);
 
 const libro = {
@@ -7,6 +13,6 @@ const libro = {
     url: "https://www.amazon.es/Fullmetal-alchemist-kanzenban-C%C3%93MIC-MANGA/dp/8467913134/"
 }
 
-const perfil = ["Gabriel", 31, true, fecha, libro];
+const perfil = [nombre, edad, desarrollador, fecha, libro];
 
 console.log(perfil);
