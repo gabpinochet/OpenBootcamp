@@ -1,0 +1,4 @@
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","message":"ERROR DE TIPO","service":"user-service"}
+{"level":"error","message":"Error: El valor debe ser de tipo numéro","service":"user-service"}
