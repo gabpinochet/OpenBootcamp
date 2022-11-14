@@ -1,0 +1,15 @@
+.secciones{
+    background-color: darkslategray;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.parrafos{
+    background-color: white;
+    padding: 1rem;
+}
+
+.parrafos.dragging{
+    opacity: 0.3;
+}
+
