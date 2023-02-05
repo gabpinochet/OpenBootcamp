@@ -1,0 +1,27 @@
+.contenedor-contacto {
+    width: 300px;
+    min-height: 200px;
+    margin: 50px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #dedede;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.contenedor-datos-contacto {
+    width: 100%;
+}
+
+.contenedor-conectado {
+    width:100%;
+}
+
+.conectado {
+    color: green;
+}
+.no-conectado {
+    color: red;
+}
